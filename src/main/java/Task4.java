@@ -6,16 +6,16 @@ public class Task4 {
 
         switch (operation){
             case '-':
-                System.out.println("Вычитание");
+                System.out.println(num1-num2);
                 break;
             case '+':
-                System.out.println("Сложение");
+                System.out.println(num1+num2);
                 break;
             case '*':
-                System.out.println("Умножение");
+                System.out.println(num1*num2);
                 break;
             case '/':
-                System.out.println("Деление");
+                System.out.println(num1/num2);
                 break;
             default:
                 System.out.println("Неизвестная операция");
