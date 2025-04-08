@@ -1,6 +1,4 @@
 public class Car {
-    // fuelLevel (уровень топлива, число типа double).
-
     String brand;
     String model;
     double mileage;
