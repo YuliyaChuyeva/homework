@@ -1,7 +1,8 @@
 public class Homework2Task6 {
     public static void main(String[] args) {
-        int i = 1;
+        int i = 0;
         do {
+            i++;
             if (i < 8) {
 
                 System.out.println(i + "Первая половина");
@@ -10,8 +11,8 @@ public class Homework2Task6 {
             } else if (i > 8) {
                 System.out.println(i + "Вторая половина");
             }
-            i++;
+
         }
-        while (i <= 15);
+        while (i < 15);
     }
 }

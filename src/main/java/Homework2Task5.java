@@ -1,7 +1,8 @@
 public class Homework2Task5 {
     public static void main(String[] args) {
-        int counter = 10;
+        int counter = 9;
         do {
+            counter++;
             if (counter < 20) {
                 System.out.println(counter + "меньше 20");
             } else if (counter >= 20) {
@@ -10,11 +11,10 @@ public class Homework2Task5 {
                 } else {
                     System.out.println(counter + "Больше или равно 20");
                 }
-
             }
 
-            counter++;
         }
-        while (counter <= 30);
+        while (counter < 30);
+
     }
 }
