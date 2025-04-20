@@ -27,7 +27,7 @@ public class User {
         return isAdmin;
     }
     public void setUserName(String userName){
-        if (userName!= null&&userName.length()<=15&&userName.length()>=5){
+        if (userName!= null&& !userName.isEmpty()&&userName.length()<=15&&userName.length()>=5){
         this.userName=userName;}
         else {
             System.out.println("Invalid name");

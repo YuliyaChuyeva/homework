@@ -10,7 +10,7 @@ public class Main {
 
         SmartThermostat smartThermostat = new SmartThermostat("Термостат",16);
         smartThermostat.turnOn();
-        smartThermostat.setTargetTemperature(21);
+        smartThermostat.setTargetTemperature(23);
         smartThermostat.performAction();
         smartThermostat.turnOff();
 

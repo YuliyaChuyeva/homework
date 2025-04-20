@@ -53,9 +53,9 @@ public class MovieTicket {
     public void sellTicket(String buyerName) {
         if (isAvailable) {
             isAvailable = false;
-            System.out.println("Ticket for" + movieName + " , seat" + seatNumber + " sold to" + buyerName);
+            System.out.println("Ticket for " + movieName + ",seat " + seatNumber + " sold to " + buyerName +".");
         } else {
-            System.out.println("Ticket for" + movieName + ", seat" + seatNumber + " is not available.");
+            System.out.println("Ticket for " + movieName + ",seat " + seatNumber + " is not available.");
         }
     }
 
@@ -63,9 +63,9 @@ public class MovieTicket {
     public void returnTicket() {
         if (!isAvailable) {
             isAvailable = true;
-            System.out.println("Ticket for" + movieName + ", seat" + seatNumber + " is now available.");
+            System.out.println("Ticket for " + movieName + ",seat " + seatNumber + " is now available.");
         } else {
-            System.out.println("Ticket for" + movieName + ", seat" + seatNumber + " is already available.");
+            System.out.println("Ticket for " + movieName + ",seat " + seatNumber + " is already available.");
         }
     }
 

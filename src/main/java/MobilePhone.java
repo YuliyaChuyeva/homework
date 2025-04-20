@@ -37,7 +37,7 @@ public class MobilePhone {
         if (batteryLevel >= 0 && batteryLevel <= 100) {
             this.batteryLevel = batteryLevel;
         } else {
-            System.out.println("Invalid batterylevel");
+            System.out.println("Invalid batteryLevel");
         }
     }
 

@@ -63,7 +63,7 @@ public class GameCharacter {
     }
 
     public void setMana(int mana) {
-        if (mana >= 0 && mana < 100) {
+        if (mana >= 0 && mana <= 100) {
             this.mana = mana;
         }
     }
@@ -77,6 +77,7 @@ public class GameCharacter {
     public void takeDamage(int damage) {
         if (!isAlive) {
             System.out.println("Character " + name + " is already dead. No damage taken.");
+            return;
         }
         setHealth(this.health - damage);
         System.out.println("Character" + name + " took" + damage + "damage. Health now:" + health);

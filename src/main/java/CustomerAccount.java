@@ -34,7 +34,7 @@ public class CustomerAccount {
     }
 
     public void setName(String name) {
-        if (name != null ) {
+        if (name != null&& !name.isEmpty() ) {
             this.name = name;
         } else {
             System.out.println("Name =null");
