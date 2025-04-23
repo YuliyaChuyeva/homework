@@ -12,6 +12,7 @@ public class Main {
         zookeeper.walkAnimal();
         zookeeper.feedAnimal("meat");
         zookeeper.feedAnimal("meat");
+        zookeeper.feedAnimal("meat");
         zookeeper.letAnimalSleep();
         zookeeper.checkStatus();
         zookeeper.setAnimal(penguin);
