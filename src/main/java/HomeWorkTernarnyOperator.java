@@ -21,7 +21,8 @@ public class HomeWorkTernarnyOperator {
         //task2
 
         int t = 16;
-        String result2 = (t == 0 || t < 20 ? "Prohladno" : t < 0 ? "Holodno" : "Teplo");
+        String result2 = (t < 0) ? "Holodno" :
+                (t <= 20) ? "Prohladno" : "Teplo";
         System.out.println(result2);
 
         //task1
