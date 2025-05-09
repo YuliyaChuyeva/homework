@@ -12,7 +12,7 @@ public class ProductCatalog {
     public void removeProductById(int id) {
         for (int i = 0; i < products.size(); i++) {
             if (products.get(i).getId() == id) {
-                products.remove(id);
+                products.remove(i);
                 System.out.println("Товар удален" + id);
             } else {
                 System.out.println("Товара с таким id нет");
