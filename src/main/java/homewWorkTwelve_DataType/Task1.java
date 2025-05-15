@@ -9,7 +9,5 @@ public class Task1 {
         System.out.println(s2);
         float s3 = Float.parseFloat(s);
         System.out.println(s3);
-
-
     }
 }
