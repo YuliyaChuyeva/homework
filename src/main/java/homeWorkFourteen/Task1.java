@@ -11,13 +11,11 @@ public class Task1 {
         map.put("Viktor", 54);
         map.put("Melissa", 91);
         map.put("Aleks", 45);
-
         Map<String, Integer> categories = new HashMap<>();
         categories.put("Отлично", 0);
         categories.put("Хорошо", 0);
         categories.put("Удовлетворительно", 0);
         categories.put("Неудовлетворительно", 0);
-
         for (Integer grade : map.values()) {
             if (grade >= 90 && grade <= 100) {
                 categories.put("Отлично", categories.get("Отлично") + 1);
