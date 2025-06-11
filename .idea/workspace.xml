@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65d4584b-0f80-4402-9352-5497f9b86ac3" name="Changes" comment="lesson20" />
+    <list default="true" id="65d4584b-0f80-4402-9352-5497f9b86ac3" name="Changes" comment="encoding misc vsc workspace">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,6 +113,7 @@
     "Application.LessonSet2.executor": "Run",
     "Application.LessonSixteen.executor": "Run",
     "Application.LessonStatic.executor": "Run",
+    "Application.Library.executor": "Run",
     "Application.ListOfNumbers.executor": "Run",
     "Application.ListofThings.executor": "Run",
     "Application.Main.executor": "Run",
@@ -128,12 +131,14 @@
     "Application.Product.executor": "Run",
     "Application.Products.executor": "Run",
     "Application.PropEx.executor": "Run",
+    "Application.Recursia.executor": "Debug",
+    "Application.ReflectionEx.executor": "Run",
     "Application.SerializationEx.executor": "Run",
     "Application.SerializationEx2.executor": "Run",
     "Application.Student.executor": "Run",
     "Application.Students.executor": "Run",
-    "Application.Task1.executor": "Run",
-    "Application.Task2.executor": "Run",
+    "Application.Task1.executor": "Debug",
+    "Application.Task2.executor": "Debug",
     "Application.Task3.executor": "Run",
     "Application.Task4.executor": "Run",
     "Application.Task5.executor": "Run",
@@ -163,55 +168,80 @@
     "Application.task_two.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last.edited.regexp": "",
     "last_opened_file_path": "C:/Users/yulia/Downloads/ExcelReader-2025.4.1-243.251/ExcelReader/lib/ExcelReader-2025.4.1-243.251-searchableOptions.jar",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Method2">
-    <configuration name="Cycles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cycles" />
+  <component name="RunManager" selected="Application.ReflectionEx">
+    <configuration name="Homework2Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework2Task7" />
       <module name="Homework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cycles1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cycles1" />
+    <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWorkTwentyOne.Library" />
       <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeWorkTwentyOne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Method" />
+    <configuration name="ReflectionEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWorkTwentyOne.ReflectionEx" />
       <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeWorkTwentyOne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Method2" />
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWorkTwentyOne.Task1" />
       <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeWorkTwentyOne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task4" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWorkTwentyOne.Task2" />
       <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeWorkTwentyOne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Method2" />
-        <item itemvalue="Application.Method" />
-        <item itemvalue="Application.Cycles1" />
-        <item itemvalue="Application.Cycles" />
+        <item itemvalue="Application.ReflectionEx" />
+        <item itemvalue="Application.Library" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.Homework2Task7" />
       </list>
     </recent_temporary>
   </component>
@@ -528,7 +558,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749537068405</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="encoding misc vsc workspace">
+      <option name="closed" value="true" />
+      <created>1749570281787</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1749570281787</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -543,7 +581,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task1-8" />
     <MESSAGE value="homework" />
     <MESSAGE value="changes" />
     <MESSAGE value="changes line 3,5" />
@@ -568,6 +605,7 @@
     <MESSAGE value="lesson17" />
     <MESSAGE value="lesson18 and 19" />
     <MESSAGE value="lesson20" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson20" />
+    <MESSAGE value="encoding misc vsc workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="encoding misc vsc workspace" />
   </component>
 </project>
