@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65d4584b-0f80-4402-9352-5497f9b86ac3" name="Changes" comment="encoding misc vsc workspace">
+    <list default="true" id="65d4584b-0f80-4402-9352-5497f9b86ac3" name="Changes" comment="lesson21">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson20" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -78,103 +78,103 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Array.executor": "Run",
-    "Application.ArrayLesson.executor": "Run",
-    "Application.BankAccount.executor": "Run",
-    "Application.BikeRental.executor": "Run",
-    "Application.Book.executor": "Run",
-    "Application.Car.executor": "Run",
-    "Application.Cat.executor": "Run",
-    "Application.Check.executor": "Run",
-    "Application.Circle.executor": "Run",
-    "Application.CoffeShop.executor": "Run",
-    "Application.CoffeeShop.executor": "Run",
-    "Application.CustomerAccount.executor": "Run",
-    "Application.Cycles.executor": "Run",
-    "Application.Cycles1.executor": "Run",
-    "Application.Dog.executor": "Run",
-    "Application.GameCharacter.executor": "Run",
-    "Application.Greeting.executor": "Run",
-    "Application.HomeWorkTernarnyOperator.executor": "Run",
-    "Application.Homework2Task1.executor": "Run",
-    "Application.Homework2Task2.executor": "Run",
-    "Application.Homework2Task3.executor": "Run",
-    "Application.Homework2Task4.executor": "Run",
-    "Application.Homework2Task5.executor": "Run",
-    "Application.Homework2Task6.executor": "Run",
-    "Application.Homework2Task7.executor": "Run",
-    "Application.Homework2Task8.executor": "Run",
-    "Application.Lesson13.executor": "Run",
-    "Application.Lesson14.executor": "Run",
-    "Application.LessonEighteen.executor": "Run",
-    "Application.LessonSet.executor": "Run",
-    "Application.LessonSet2.executor": "Run",
-    "Application.LessonSixteen.executor": "Run",
-    "Application.LessonStatic.executor": "Run",
-    "Application.Library.executor": "Run",
-    "Application.ListOfNumbers.executor": "Run",
-    "Application.ListofThings.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MainEmployee.executor": "Run",
-    "Application.MapLesson.executor": "Run",
-    "Application.Method.executor": "Run",
-    "Application.Method2.executor": "Run",
-    "Application.MobilePhone.executor": "Run",
-    "Application.MovieTicket.executor": "Run",
-    "Application.Number.executor": "Run",
-    "Application.Numbers.executor": "Run",
-    "Application.OuterClass.executor": "Run",
-    "Application.Person.executor": "Run",
-    "Application.Phone.executor": "Run",
-    "Application.Product.executor": "Run",
-    "Application.Products.executor": "Run",
-    "Application.PropEx.executor": "Run",
-    "Application.Recursia.executor": "Debug",
-    "Application.ReflectionEx.executor": "Run",
-    "Application.SerializationEx.executor": "Run",
-    "Application.SerializationEx2.executor": "Run",
-    "Application.Student.executor": "Run",
-    "Application.Students.executor": "Run",
-    "Application.Task1.executor": "Debug",
-    "Application.Task2.executor": "Debug",
-    "Application.Task3.executor": "Run",
-    "Application.Task4.executor": "Run",
-    "Application.Task5.executor": "Run",
-    "Application.Ternarnyy.executor": "Run",
-    "Application.User.executor": "Run",
-    "Application.Week.executor": "Run",
-    "Application.homeWorkEighteen.Task3.executor": "Run",
-    "Application.homeWorkFifteen.Task2.executor": "Run",
-    "Application.homeWorkFifteen_stringbuild.Task1.executor": "Run",
-    "Application.homeWorkFifteen_stringbuild.Task2.executor": "Run",
-    "Application.homeWorkNine_taskTwo.Main.executor": "Run",
-    "Application.homeWorkTen_taskFive.executor": "Run",
-    "Application.homeWorkTen_taskFour.executor": "Run",
-    "Application.homeWorkTen_taskOne.executor": "Run",
-    "Application.homeWorkTen_taskSix.executor": "Run",
-    "Application.homeWorkTen_taskThree.executor": "Run",
-    "Application.homeWorkTen_taskTwo.executor": "Debug",
-    "Application.homewWorkTwelve_DataType.Task1.executor": "Run",
-    "Application.homewWorkTwelve_DataType.Task2.executor": "Run",
-    "Application.homewWorkTwelve_DataType.Task3.executor": "Run",
-    "Application.homeworkEight_taskOne.Main.executor": "Run",
-    "Application.homeworkSeven_taskOne.Main.executor": "Run",
-    "Application.lessonSix_taskOne.Main.executor": "Run",
-    "Application.lessonSix_taskThree.Main.executor": "Run",
-    "Application.lessonSix_taskTwo.Main.executor": "Run",
-    "Application.lessonSixteen.executor": "Run",
-    "Application.task_two.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last.edited.regexp": "",
-    "last_opened_file_path": "C:/Users/yulia/Downloads/ExcelReader-2025.4.1-243.251/ExcelReader/lib/ExcelReader-2025.4.1-243.251-searchableOptions.jar",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayLesson.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BankAccount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BikeRental.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Book.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Car.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Check.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Circle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CoffeShop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CoffeeShop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CustomerAccount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cycles.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cycles1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Dog.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GameCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Greeting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWorkTernarnyOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Homework2Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Homework2Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Homework2Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Homework2Task4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Homework2Task5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Homework2Task6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Homework2Task7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Homework2Task8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lesson13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lesson14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LessonEighteen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LessonSet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LessonSet2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LessonSixteen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LessonStatic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Library.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListOfNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListofThings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainEmployee.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapLesson.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Method2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MobilePhone.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MovieTicket.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OuterClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Person.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Phone.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Product.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Products.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PropEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Recursia.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ReflectionEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SerializationEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SerializationEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Student.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Students.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ternarnyy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.User.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Week.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeWorkEighteen.Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeWorkFifteen.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeWorkFifteen_stringbuild.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeWorkFifteen_stringbuild.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeWorkNine_taskTwo.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeWorkTen_taskFive.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeWorkTen_taskFour.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeWorkTen_taskOne.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeWorkTen_taskSix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeWorkTen_taskThree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeWorkTen_taskTwo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.homewWorkTwelve_DataType.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homewWorkTwelve_DataType.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homewWorkTwelve_DataType.Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeworkEight_taskOne.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeworkSeven_taskOne.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lessonSix_taskOne.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lessonSix_taskThree.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lessonSix_taskTwo.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lessonSixteen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task_two.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;lesson21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last.edited.regexp&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/yulia/Downloads/ExcelReader-2025.4.1-243.251/ExcelReader/lib/ExcelReader-2025.4.1-243.251-searchableOptions.jar&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.ReflectionEx">
     <configuration name="Homework2Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework2Task7" />
@@ -237,10 +237,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReflectionEx" />
-        <item itemvalue="Application.Library" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.ReflectionEx" />
+        <item itemvalue="Application.Library" />
         <item itemvalue="Application.Homework2Task7" />
       </list>
     </recent_temporary>
@@ -566,7 +566,23 @@
       <option name="project" value="LOCAL" />
       <updated>1749570281787</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="encoding misc vsc workspace">
+      <option name="closed" value="true" />
+      <created>1749631967951</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1749631967951</updated>
+    </task>
+    <task id="LOCAL-00041" summary="lesson21">
+      <option name="closed" value="true" />
+      <created>1749632814725</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1749632814725</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -581,7 +597,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="homework" />
     <MESSAGE value="changes" />
     <MESSAGE value="changes line 3,5" />
     <MESSAGE value="Homework Task1,Task2" />
@@ -606,6 +621,7 @@
     <MESSAGE value="lesson18 and 19" />
     <MESSAGE value="lesson20" />
     <MESSAGE value="encoding misc vsc workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="encoding misc vsc workspace" />
+    <MESSAGE value="lesson21" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson21" />
   </component>
 </project>
