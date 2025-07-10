@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65d4584b-0f80-4402-9352-5497f9b86ac3" name="Changes" comment="encoding misc vsc workspace">
+    <list default="true" id="65d4584b-0f80-4402-9352-5497f9b86ac3" name="Changes" comment="changes method name">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +44,7 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson20" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -83,6 +85,7 @@
     "Application.Array.executor": "Run",
     "Application.ArrayLesson.executor": "Run",
     "Application.BankAccount.executor": "Run",
+    "Application.BankTransfer.executor": "Run",
     "Application.BikeRental.executor": "Run",
     "Application.Book.executor": "Run",
     "Application.Car.executor": "Run",
@@ -91,6 +94,7 @@
     "Application.Circle.executor": "Run",
     "Application.CoffeShop.executor": "Run",
     "Application.CoffeeShop.executor": "Run",
+    "Application.Counter.executor": "Run",
     "Application.CustomerAccount.executor": "Run",
     "Application.Cycles.executor": "Run",
     "Application.Cycles1.executor": "Run",
@@ -114,8 +118,10 @@
     "Application.LessonSixteen.executor": "Run",
     "Application.LessonStatic.executor": "Run",
     "Application.Library.executor": "Run",
+    "Application.ListBox.executor": "Run",
     "Application.ListOfNumbers.executor": "Run",
     "Application.ListofThings.executor": "Run",
+    "Application.Main (1).executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MainEmployee.executor": "Run",
     "Application.MapLesson.executor": "Run",
@@ -125,7 +131,10 @@
     "Application.MovieTicket.executor": "Run",
     "Application.Number.executor": "Run",
     "Application.Numbers.executor": "Run",
+    "Application.OptionalCityEx.executor": "Run",
     "Application.OuterClass.executor": "Run",
+    "Application.Pair.executor": "Run",
+    "Application.PartialSum.executor": "Run",
     "Application.Person.executor": "Run",
     "Application.Phone.executor": "Run",
     "Application.Product.executor": "Run",
@@ -137,14 +146,21 @@
     "Application.SerializationEx2.executor": "Run",
     "Application.Student.executor": "Run",
     "Application.Students.executor": "Run",
-    "Application.Task1.executor": "Debug",
-    "Application.Task2.executor": "Debug",
+    "Application.Task.executor": "Run",
+    "Application.Task1.executor": "Run",
+    "Application.Task2.executor": "Run",
     "Application.Task3.executor": "Run",
     "Application.Task4.executor": "Run",
     "Application.Task5.executor": "Run",
+    "Application.Task6.executor": "Run",
     "Application.Ternarnyy.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Test2.executor": "Run",
+    "Application.ThreadEx.executor": "Run",
     "Application.User.executor": "Run",
     "Application.Week.executor": "Run",
+    "Application.WildEx.executor": "Run",
+    "Application.Wildcard.executor": "Run",
     "Application.homeWorkEighteen.Task3.executor": "Run",
     "Application.homeWorkFifteen.Task2.executor": "Run",
     "Application.homeWorkFifteen_stringbuild.Task1.executor": "Run",
@@ -156,6 +172,15 @@
     "Application.homeWorkTen_taskSix.executor": "Run",
     "Application.homeWorkTen_taskThree.executor": "Run",
     "Application.homeWorkTen_taskTwo.executor": "Debug",
+    "Application.homeWorkTwentyFour.dateTimeLesson.Task1.executor": "Run",
+    "Application.homeWorkTwentyFour.dateTimeLesson.Task2.executor": "Run",
+    "Application.homeWorkTwentyFour.dateTimeLesson.Task3.executor": "Run",
+    "Application.homeWorkTwentyFour.streamsOptional.Task5.executor": "Run",
+    "Application.homeWorkTwentySix.Counter.executor": "Run",
+    "Application.homeWorkTwentySix.Task2.executor": "Run",
+    "Application.homeWorkTwentySix.Task5.executor": "Run",
+    "Application.homeWorkTwentySix.Task6.executor": "Run",
+    "Application.homeWorkTwentyThree.Task2.executor": "Run",
     "Application.homewWorkTwelve_DataType.Task1.executor": "Run",
     "Application.homewWorkTwelve_DataType.Task2.executor": "Run",
     "Application.homewWorkTwelve_DataType.Task3.executor": "Run",
@@ -168,7 +193,7 @@
     "Application.task_two.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "#23 on homeWorkLesson24",
     "kotlin-language-version-configured": "true",
     "last.edited.regexp": "",
     "last_opened_file_path": "C:/Users/yulia/Downloads/ExcelReader-2025.4.1-243.251/ExcelReader/lib/ExcelReader-2025.4.1-243.251-searchableOptions.jar",
@@ -237,10 +262,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReflectionEx" />
-        <item itemvalue="Application.Library" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.ReflectionEx" />
+        <item itemvalue="Application.Library" />
         <item itemvalue="Application.Homework2Task7" />
       </list>
     </recent_temporary>
@@ -566,7 +591,63 @@
       <option name="project" value="LOCAL" />
       <updated>1749570281787</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="steamLesson23">
+      <option name="closed" value="true" />
+      <created>1750524550818</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1750524550818</updated>
+    </task>
+    <task id="LOCAL-00041" summary="streamLesson23">
+      <option name="closed" value="true" />
+      <created>1750528440693</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1750528440693</updated>
+    </task>
+    <task id="LOCAL-00042" summary="streamLesson23">
+      <option name="closed" value="true" />
+      <created>1750656472533</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1750656472533</updated>
+    </task>
+    <task id="LOCAL-00043" summary="streamLesson24">
+      <option name="closed" value="true" />
+      <created>1750852306129</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1750852306129</updated>
+    </task>
+    <task id="LOCAL-00044" summary="streamLesson24">
+      <option name="closed" value="true" />
+      <created>1750852845052</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1750852845052</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Lesson25">
+      <option name="closed" value="true" />
+      <created>1752127901587</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1752127901587</updated>
+    </task>
+    <task id="LOCAL-00046" summary="changes method name">
+      <option name="closed" value="true" />
+      <created>1752128190355</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1752128190355</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -581,11 +662,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="homework" />
-    <MESSAGE value="changes" />
-    <MESSAGE value="changes line 3,5" />
-    <MESSAGE value="Homework Task1,Task2" />
-    <MESSAGE value="Homework lesson5" />
     <MESSAGE value="lessonSix_taskThree" />
     <MESSAGE value="lessonSix_taskThree_Main" />
     <MESSAGE value="lessonSix_taskOne_and_taskTwo" />
@@ -606,6 +682,11 @@
     <MESSAGE value="lesson18 and 19" />
     <MESSAGE value="lesson20" />
     <MESSAGE value="encoding misc vsc workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="encoding misc vsc workspace" />
+    <MESSAGE value="steamLesson23" />
+    <MESSAGE value="streamLesson23" />
+    <MESSAGE value="streamLesson24" />
+    <MESSAGE value="Lesson25" />
+    <MESSAGE value="changes method name" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes method name" />
   </component>
 </project>
