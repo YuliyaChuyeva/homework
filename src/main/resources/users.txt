@@ -1,0 +1,8 @@
+client,111,111,марк
+client,909,909,yfgdud
+client,860,860,лера
+client,julia,julia,Юлия
+client,666,666,maks
+client,777,777,света
+administrator,admin,admin,dyf
+client,890,890,julia
